@@ -19,6 +19,7 @@ Product Management System (Using Vanilla  Javascript)
 <a href="https://ahmedeid1998.github.io/CRUDS-JS/">CRUDS System</a>
 
 # Overview
+- Unfortunately, this is not responsive to all screens.
 - You can see animation box in left of screen and another in the right
    <br>🔶 when you hover over any box , it will stop moving
    <br>🔶 which in the left , desplay how many products do you own in your system
