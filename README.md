@@ -1,4 +1,4 @@
-# CRUDS-JS
+# CRUDS Operations
 Product Management System (Using Vanilla  Javascript)
 # Dependencies
 - Realtime Search
@@ -15,9 +15,6 @@ Product Management System (Using Vanilla  Javascript)
 - Search By Category
 - Delete All Products
 - Update Product To Edit
-# Demo
-<a href="https://ahmedeid1998.github.io/CRUDS-JS/">CRUDS System</a>
-
 # Overview
 - Unfortunately, this is not responsive to all screens.
 - You can see animation box in left of screen and another in the right
@@ -41,3 +38,6 @@ Product Management System (Using Vanilla  Javascript)
 <br>🔷 The first letter of product title and product category must be capital letter
 <br>🔷 You must enter a positive number in the price , taxse , ads , and discount inputs
 <br>🔷 But you can leave the count input empty or enter zero or one , in any of these possibilities that will create one product
+
+# Demo
+<a href="https://ahmedeid1998.github.io/CRUDS-JS/">CRUDS System</a>
