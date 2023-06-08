@@ -20,9 +20,9 @@ Product Management System
 
 # Overview
 - You can see animation box in left of screen and another in the right
-   🔶 when you hover over any box , it will stop moving
-   🔶 which in the left , desplay how many products do you own in your system
-   🔶 which in the right , show you can enter your data but when you break the REGEX  rules ,it will desplay a warning message ❗🚫
+   <br>🔶 when you hover over any box , it will stop moving
+   <br>🔶 which in the left , desplay how many products do you own in your system
+   <br>🔶 which in the right , show you can enter your data but when you break the REGEX  rules ,it will desplay a warning message ❗🚫
 
 - There is a function to calculate the final price and show it in a green mark below the ads and discount inputs in the form
 
@@ -37,6 +37,6 @@ Product Management System
 - You can delete all products from the table with one click on the (Delete All) button .. but the (Delete All) button will disappear because there are no products here, and it will appear when there are products that can be deleted
 
 - I used Regular Expression (REGEX) and these are the rules 👇 ...
-🔷 The first letter of product title and product category must be capital letter
-🔷 You must enter a positive number in the price , taxse , ads , and discount inputs
-🔷 But you can leave the count input empty or enter zero or one , in any of these possibilities that will create one product
+<br>🔷 The first letter of product title and product category must be capital letter
+<br>🔷 You must enter a positive number in the price , taxse , ads , and discount inputs
+<br>🔷 But you can leave the count input empty or enter zero or one , in any of these possibilities that will create one product
