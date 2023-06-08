@@ -1,5 +1,5 @@
 # CRUDS-JS
-Product Management System
+Product Management System (Using Vanilla  Javascript)
 # Dependencies
 - Realtime Search
 - Localstorage
